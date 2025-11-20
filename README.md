@@ -2,7 +2,6 @@
 
 DeskFriend est un assistant de bureau léger et discret conçu pour améliorer votre productivité. Il vous permet de gérer vos tâches, de conserver un historique de votre presse-papier et de garder vos notes importantes toujours à portée de main.
 
-![DeskFriend Screenshot](Icons/Develop.png) *Note: Ajoutez une capture d'écran ici*
 
 ## Fonctionnalités
 
@@ -71,3 +70,4 @@ Pour créer un exécutable autonome `.exe` :
 ## Auteur
 
 Développé avec passion pour simplifier votre flux de travail quotidien.
+
