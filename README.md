@@ -153,3 +153,5 @@ Cliquez sur l'icône **Roue Crantée** en bas pour ouvrir les paramètres.
 *Profitez de votre nouveau compagnon de productivité !*
 
 
+Si vous appréciez mon application , et si vous pensez que ca en vaut la peine , n'hesitez pas à laisser un petit pourboire pour me soutenir !
+ [Soutenir le projet sur PayPal](https://paypal.me/synepcice)
