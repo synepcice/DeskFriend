@@ -1,0 +1,75 @@
+{
+  "settings": {
+    "clipboard_enabled": true,
+    "window_position": [
+      758,
+      385
+    ],
+    "last_list_id": "clipboard_list",
+    "window_visible": false
+  },
+  "lists": [
+    {
+      "id": "58d4b25c-4062-409d-98e1-8eaf9204feaf",
+      "name": "Courses",
+      "color": "#0d10aa",
+      "items": [
+        {
+          "id": "4d6b69f7-9467-418a-bd97-493d87729e27",
+          "text": "blabla",
+          "created_at": "2025-11-20T15:26:46.118781",
+          "modified_at": "2025-11-20T15:26:46.118781",
+          "validated_at": null,
+          "is_validated": false
+        },
+        {
+          "id": "74ee984c-cd5c-4a0e-8766-4063eb9cdd06",
+          "text": "Aaa",
+          "created_at": "2025-11-20T15:32:07.557773",
+          "modified_at": "2025-11-20T15:32:07.557773",
+          "validated_at": null,
+          "is_validated": false
+        },
+        {
+          "id": "233c16a4-31a8-44e4-b5eb-cff7d2e48579",
+          "text": "eee",
+          "created_at": "2025-11-20T15:36:38.829688",
+          "modified_at": "2025-11-20T15:36:38.829688",
+          "validated_at": null,
+          "is_validated": false
+        },
+        {
+          "id": "f20368b6-632c-434a-9b86-e0c7ffc24d9e",
+          "text": "ahalala",
+          "created_at": "2025-11-20T15:56:15.363712",
+          "modified_at": "2025-11-20T15:56:15.363712",
+          "validated_at": null,
+          "is_validated": false
+        }
+      ]
+    },
+    {
+      "id": "clipboard_list",
+      "name": "ClipBoard",
+      "color": "#808080",
+      "items": [
+        {
+          "id": "afaa9aa9-1d61-4670-a792-bfeac5d4e9f4",
+          "text": "blabla",
+          "created_at": "2025-11-20T17:09:18.099557",
+          "modified_at": "2025-11-20T17:09:18.099557",
+          "validated_at": null,
+          "is_validated": false
+        },
+        {
+          "id": "f1ad19a2-975f-42fa-980a-f5b455b03356",
+          "text": "aeaeazeea",
+          "created_at": "2025-11-20T17:12:54.887431",
+          "modified_at": "2025-11-20T17:12:54.887431",
+          "validated_at": null,
+          "is_validated": false
+        }
+      ]
+    }
+  ]
+}
